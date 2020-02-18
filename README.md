@@ -7,3 +7,5 @@ that prospects the price of a listing in relation to the neighborhood and the nu
 required feature scaling and engineering, implementation of machine learning models, data tidying, and subsequent visualizations.
 
 The dataset was kindly borrowed from Kaggle @ https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data 
+
+![Price vs Number of Reviews - Manhattan](https://github.com/artwang31/AirBNB-NYC-Cluster-Analysis-and-Multivariate-Regression/blob/master/Price%20vs%20Number%20of%20Reviews.png)
